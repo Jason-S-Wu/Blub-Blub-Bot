@@ -1,4 +1,4 @@
-# Blub Bot
+# Blub Blub Bot
 
 A simple Discord bot that reacts to messages and creates webhooks. (💩 Code and Bot)
 
